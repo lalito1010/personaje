@@ -1,0 +1,17 @@
+body {
+    background: rgb(0, 0, 0);
+    color: rgb(0, 158, 231);
+    text-align: center;
+}
+
+header {
+    color: rgb(127, 251, 255);
+}
+
+
+.cuadro1 {
+    background: rgb(20, 58, 17);
+}
+.cuadro1 img {
+    width: 100%;
+}
